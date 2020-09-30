@@ -5,8 +5,8 @@ uBlock₀ 에서 사용하는 Dogdrip.net 개드립콘 차단 필터
 ### 1. uBlock₀ 설치
 https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm 에서 uBlock Origin 확장프로그램을 설치합니다.
 
-### 2. 필터 추가 ([필터 추가하기](https://subscribe.adblockplus.org/?location=https://github.com/juckdo/denystickerlist/raw/master/denystickerlist.txt))
-[필터 추가하기](https://subscribe.adblockplus.org/?location=https://github.com/juckdo/denystickerlist/raw/master/denystickerlist.txt) 링크를 클릭하여 uBlock₀에 denystickerlist 필터를 추가하세요.
+### 2. 필터 추가 ([필터 추가하기](https://subscribe.adblockplus.org/?location=https://github.com/juckdo/denystickerlist/raw/master/denystickerlist.txt&title=denystickerlist))
+[필터 추가하기](https://subscribe.adblockplus.org/?location=https://github.com/juckdo/denystickerlist/raw/master/denystickerlist.txt&title=denystickerlist) 링크를 클릭하여 uBlock₀에 denystickerlist 필터를 추가하세요.  
 만약 추가 여부를 묻는 대화상자가 뜨지 않으면 새로고침 후 다시 시도하세요.
 
 ## 참고
