@@ -1,5 +1,5 @@
 # denystickerlist
-uBlock₀ 에서 사용하는 Dogdrip.net 개드립콘 차단 필터
+uBlock₀ 에서 사용하는 Dogdrip.net의  개드립콘 차단 필터
 
 ## 사용방법
 ### 1. uBlock₀ 설치
