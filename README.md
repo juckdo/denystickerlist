@@ -1,5 +1,5 @@
 # denystickerlist
-uBlock₀ 에서 사용하는 Dogdrip.net의 혐오 개드립콘 차단 필터
+uBlock₀ 에서 사용하는 dogdrip.net의 혐오 개드립콘 차단 필터
 
 ## 차단 대상
 * 착한둘리콘
