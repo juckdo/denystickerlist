@@ -1,6 +1,10 @@
 # denystickerlist
 uBlock₀ 에서 사용하는 Dogdrip.net의 혐오 개드립콘 차단 필터
 
+## 차단 대상
+* 착한둘리콘
+* 그 외 아니메풍 이미지가 다수 포함된 개드립콘
+
 ## 사용방법
 ### 1. uBlock₀ 설치
 https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm 에서 uBlock Origin 확장프로그램을 설치합니다.
