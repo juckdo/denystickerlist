@@ -1,3 +1,9 @@
+[Adblock Plus 2.0]
+! Homepage: https://github.com/juckdo/denystickerlist
+! Title: dogdrip.net Deny Sticker List
+! Expires: 4 days
+! Version: 20200930
+
 www.dogdrip.net##.comment-item:has([title*="둘리"])
 www.dogdrip.net##.comment-item:has([title*="아리티콘"])
 www.dogdrip.net##.comment-item:has([title*="러브라이브"])
