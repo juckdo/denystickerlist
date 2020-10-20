@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/juckdo/denystickerlist
 ! Title: dogdrip.net Deny Sticker List (except Dooly)
 ! Expires: 4 days
-! Version: 20200930
+! Version: 20201020
 
 www.dogdrip.net##.comment-item:has([title*="아리티콘"])
 www.dogdrip.net##.comment-item:has([title*="러브라이브"])
@@ -95,3 +95,6 @@ www.dogdrip.net##.comment-item:has([title*="나나오"])
 www.dogdrip.net##.comment-item:has([title*="쭐어메이플"])
 www.dogdrip.net##.comment-item:has([title*="95식쟝"])
 www.dogdrip.net##.comment-item:has([title*="도마콘"])
+www.dogdrip.net##.comment-item:has([title*="페이몬"])
+www.dogdrip.net##.comment-item:has([title*="원신"])
+www.dogdrip.net##.comment-item:has([title*="이윽고콘"])
